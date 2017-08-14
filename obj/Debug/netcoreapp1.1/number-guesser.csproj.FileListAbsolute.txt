@@ -1,0 +1,8 @@
+/Users/jacoblafond/dotnet/number-guesser/bin/Debug/netcoreapp1.1/number-guesser.deps.json
+/Users/jacoblafond/dotnet/number-guesser/bin/Debug/netcoreapp1.1/number-guesser.runtimeconfig.json
+/Users/jacoblafond/dotnet/number-guesser/bin/Debug/netcoreapp1.1/number-guesser.runtimeconfig.dev.json
+/Users/jacoblafond/dotnet/number-guesser/bin/Debug/netcoreapp1.1/number-guesser.dll
+/Users/jacoblafond/dotnet/number-guesser/bin/Debug/netcoreapp1.1/number-guesser.pdb
+/Users/jacoblafond/dotnet/number-guesser/obj/Debug/netcoreapp1.1/number-guesser.AssemblyInfo.cs
+/Users/jacoblafond/dotnet/number-guesser/obj/Debug/netcoreapp1.1/number-guesser.dll
+/Users/jacoblafond/dotnet/number-guesser/obj/Debug/netcoreapp1.1/number-guesser.pdb
